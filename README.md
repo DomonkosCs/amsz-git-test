@@ -1,0 +1,1 @@
+# amsz-git-test
